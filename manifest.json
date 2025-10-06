@@ -1,0 +1,11 @@
+{
+    "Name": "Stardew Valley Belarusian android",
+    "Author": "nice_trojan, ueschar",
+    "Version": "1.2.2",
+    "Description": "Пераклад Stardew Valley на беларускую мову.",
+    "UniqueID": "StardewValleyBelarusian",
+    "UpdateKeys": ["Nexus:27171"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
